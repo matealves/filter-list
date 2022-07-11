@@ -20,7 +20,7 @@
 Projeto simples de uma pequena lista de filmes e séries, que é <strong>adicionada no HTML através do JavaScript</strong>, com itens de um array. Nesta lista foi trabalhado a opção de conseguir <strong>filtrar</strong> os filmes e séries através do texto digitado no input. Onde não só é encontrado resultados que iniciam com determinada letra, mas também que possuem a letra ou número digitado <strong>em qualquer posição da palavra.</strong>
 </div>
 <br>
-<br>
+
 
 <h1 align="center">
 <!-- <h1> -->
