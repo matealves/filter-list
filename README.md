@@ -22,15 +22,14 @@ Projeto simples de uma pequena lista de filmes e séries, que é <strong>adicion
 <br>
 
 
-<h1 align="center">
-<!-- <h1> -->
-<a href="https://matealves.github.io/filter-list/" target="_blank">Testar</a> 
-</h1>
+<!--<h1 align="center"> -->
+<h3>
+<a href="https://matealves.github.io/filter-list/" target="_blank">Testar (preview)</a> 
+</h3>
 
 <!-- <p align = "center">
   <img src ="assets/img/relogio_readme.jpg" alt = "mockup" />
 </p> -->
-<br>
 <br>
 
 <div id="leng">
